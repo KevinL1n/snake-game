@@ -1,3 +1,3 @@
 # snake-game
 
-游戏试玩地址：cqustudent.top
+游戏试玩地址：http://www.cqustudent.top/
